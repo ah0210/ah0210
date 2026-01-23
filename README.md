@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0969da&width=435&lines=Hi%2C+I'm+Ah+%F0%9F%91%8B+)
+
+![views](https://komarev.com/ghpvc/?username=ah0210&color=green)
 
 **ah0210/ah0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
